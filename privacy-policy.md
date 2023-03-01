@@ -1,6 +1,6 @@
 # PolitePost.net Privacy Policy
 
-Last Updated: February 27, 2023
+Last Updated: March 1, 2023
 
 ## No PII Collected
 
@@ -8,7 +8,7 @@ We do not intentionally collect personally identifiable informtion ("**PII**") a
 
 ### Disclosure to Third Party Provider - OpenAI
 
-We use OpenAI, L.L.C.'s ("**OpenAI**") Text Completion API to rewrite your emails.  While PolitePost does not collect any PII, it may pass PII you voluntarily include in your content to OpenAI.  We encourage you to omit any PII in the content you submit.  We also encourage you to review OpenAI's privacy policy at <https://openai.com/privacy/>.
+We use OpenAI, L.L.C.'s ("**OpenAI**") Text Completion API to rewrite your emails.  While PolitePost does not collect any PII, it may pass PII you voluntarily include in your content to OpenAI.  We encourage you to omit any PII in the content you submit.  We also encourage you to review OpenAI's privacy policy at <https://openai.com/privacy/>.  PolitePost has "opted-out" of OpenAI's Data, meaning your content will NOT be used by OpenAI to train or improve their models.
 
 ## Contact Us
 
